@@ -1,5 +1,6 @@
 package com.example.javaconcurrencyinpractice;
 
+// bad
 public class NoVisibility {
 
     private static boolean ready;
